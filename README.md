@@ -78,7 +78,7 @@ FastAPI·PostgreSQL·React·Docker·AWS 기획→개발→배포 전 과정
 - 도메인 구매 및 배포
 
 ### Backend / Data
-- **Python**,
+- **Python**
 - **FastAPI**
 - RESTful API 설계
 - JWT 인증
