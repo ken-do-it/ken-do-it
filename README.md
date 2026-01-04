@@ -41,7 +41,8 @@ FastAPI·PostgreSQL·React·Docker·AWS 기획→개발→배포 전 과정
 ### **Artlion - AI 음악 공유 플랫폼** | 2025년 (3주 소요)
 **4인 팀 프로젝트 | 멋쟁이 사자처럼 부트캠프**
 
-**GitHub**: [github.com/ken-do-it/2025-like-lion-team-project-2-gpt](https://github.com/ken-do-it/2025-like-lion-team-project-2-gpt)
+**백엔드 GitHub**: [github.com/ken-do-it/2025-like-lion-team-project-2-gpt](https://github.com/ken-do-it/2025-like-lion-team-project-2-gpt)
+**프론트 GitHub**: [github.com/ken-do-it/2025-like-lion-team-project-2-gpt](https://github.com/ken-do-it/2025-like-lion-team-project-2-gpt)
 
 #### 주요 성과
 - ✅ AI와 협업하여 FastAPI + PostgreSQL 백엔드 개발
@@ -62,7 +63,7 @@ FastAPI·PostgreSQL·React·Docker·AWS 기획→개발→배포 전 과정
 ### **개인 포트폴리오 사이트** | 2024년
 **www.hiken.org**
 
-- 순수 JavaScript, HTML, CSS로 반응형 웹사이트 개발
+- 바닐라 JavaScript, HTML, CSS로 반응형 웹사이트 개발
 - 공공데이터 API 연동 및 DOM 조작
 - 도메인 구매, 서버 설정, 배포까지 전 과정 독립 수행
 
@@ -77,9 +78,12 @@ FastAPI·PostgreSQL·React·Docker·AWS 기획→개발→배포 전 과정
 - 도메인 구매 및 배포
 
 ### Backend / Data
-- **Python**, **FastAPI**
+- **Python**,
+- **FastAPI**
 - RESTful API 설계
-- JWT 인증 & SQLAlchemy, PostgreSQL
+- JWT 인증
+- SQLAlchemy
+- PostgreSQL
 - Pytest (테스트 자동화)
 
 ### DevOps
