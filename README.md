@@ -87,7 +87,7 @@ compensating for limited experience with structured thinking and rapid iteration
 
 ## 📫 Contact & Links
 
-[![Portfolio](https://img.shields.io/badge/Notion_Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2e518e57f67a802987bae1e06b356fbf)
+[![Portfolio](https://img.shields.io/badge/Notion_Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-V4-32a18e57f67a8044890ed98ad9f2954c)
 [![Website](https://img.shields.io/badge/hiken.org-4CAF50?style=flat-square&logo=vercel&logoColor=white)](https://www.hiken.org)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ken-do-it)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kenjustdoitkr@gmail.com)
