@@ -49,10 +49,21 @@ The same skills that made me a good chef — **fast problem-solving, team collab
 
 | 프로젝트 | 설명 | 성과 |
 |---|---|---|
+| 📰 **Law News** | 소송금융 뉴스 분석 플랫폼 (인턴쉽) | 오분류 **70% 감소** / Recharts 시각화 UI |
 | 🧳 **TripKo** | 외국인 대상 AI 여행 추천 + 다국어 번역 | 번역 속도 **90.2% 개선** (22.57s→2.22s) / Docker 빌드 **99.6% 단축** |
 | 🦁 **ArtLion** | AI 크리에이티브 콘텐츠 공유 플랫폼 | 전역 오디오 플레이어 구현 / MP3 커버 자동 추출 |
 | 🎭 **Hiken** | 서울 문화 행사 소개 서비스 (1인 개발) | 실 도메인 배포 / SEO 최적화 / Vercel Serverless |
-| 📰 **Law News** | 소송금융 뉴스 분석 플랫폼 (인턴쉽) | 오분류 **70% 감소** / Recharts 시각화 UI |
+
+
+
+## 📂 Key Projects
+ 
+| Project | Description | Key Results |
+|---|---|---|
+| 📰 **Law News** | Legal news analysis platform for litigation finance (internship) | Misclassification **↓70%** / Recharts data visualization UI |
+| 🧳 **TripKo** | AI travel platform with multilingual translation for foreign tourists in Korea | Translation speed **↑90.2%** (22.57s→2.22s) / Docker build **↓99.6%** (15min→4s) |
+| 🦁 **ArtLion** | AI creative content sharing platform (image · music · video) | Global audio player across pages / MP3 cover auto-extraction |
+| 🎭 **Hiken** | Seoul cultural events guide — solo project | Live domain deployment / SEO optimization / Vercel Serverless API |
 
 ---
 
