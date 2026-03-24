@@ -92,7 +92,7 @@ compensating for limited experience with structured thinking and rapid iteration
 
 - 🇦🇺 Australia — 12 years | 🇨🇳 China — 5 years
 - 17년 글로벌 경력 → 다국적 팀 협업 & 사용자 관점 문제 인식
-- 영어 (유창) · 중국어(표준) · 한국어
+- 영어 · 중국어 · 한국어
 
 ---
 
