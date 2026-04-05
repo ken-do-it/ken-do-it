@@ -69,10 +69,11 @@ The same skills that made me a good chef — **fast problem-solving, team collab
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-![Kijin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ken-do-it&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ken-do-it&layout=compact&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ken-do-it&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ken-do-it&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 </div>
 
