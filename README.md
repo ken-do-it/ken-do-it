@@ -70,8 +70,7 @@ The same skills that made me a good chef — **fast problem-solving, team collab
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ken-do-it&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400&v=2" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-do-it&layout=compact&theme=dark&hide_border=true&cache_seconds=86400&v=2" height="165" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ken-do-it&theme=github_dark" />
 </div>
 
 ---
