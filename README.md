@@ -13,6 +13,8 @@ I am a career-changing junior developer building web and mobile products with AI
 
 | Project | Context | What to review |
 | --- | --- | --- |
+| [OzKoStage](https://github.com/ken-do-it/ozkostage-portfolio) | 2026 · Personal web / PWA | Live theatre platform. Review mobile navigation decisions, route structure and database permissions in the curated source snapshot. |
+| [Small Steps](https://github.com/ken-do-it/small-steps-portfolio) | 2026 · Personal Flutter app | Review schedule-versus-mission decisions, duplicate-item fixes and the account/calendar integration boundary. |
 | [Law News](https://github.com/ken-do-it/law_news_c_v2) | 2026 · One-month internship project | Django REST + React pipeline for collecting news, grouping related cases and presenting AI analysis. My work included article-grouping improvements and Recharts visualization. |
 | [TripKo](https://github.com/ken-do-it/final_repo_like_lion) | 2025–2026 · Team project / fork | Travel platform for visitors to Korea. My contribution focused on translation and development/build workflow improvements. The repository also contains teammates' work. |
 | [ArtLion](https://github.com/ken-do-it/1team-project-FE) | 2025 · Team frontend / fork | My frontend contribution included the music experience: a shared audio player and MP3 cover extraction. |
@@ -23,8 +25,8 @@ These are selected projects with activity within the last two years as of Septem
 
 | Product | User problem and a concrete decision | Stack / access |
 | --- | --- | --- |
-| **[OzKoStage](https://ozkostage.com/)** | Help people discover Korean theatre in Australia. I identified mobile navigation problems, requested a preview before release, and reported layout regressions for correction. | Next.js, React, TypeScript, Supabase · Live web / PWA; source private |
-| **Small Steps** | Keep everyday calendar events from automatically becoming growth goals. I defined the distinction between schedules and missions, with optional conversion. I also reported duplicate items and verified the corrected Android build. | Flutter / Dart · Android closed testing; application source private |
+| **[OzKoStage](https://ozkostage.com/)** | Help people discover Korean theatre in Australia. I identified mobile navigation problems, requested a preview before release, and reported layout regressions for correction. | Next.js, React, TypeScript, Supabase · Live web / PWA; [public portfolio source](https://github.com/ken-do-it/ozkostage-portfolio) |
+| **Small Steps** | Keep everyday calendar events from automatically becoming growth goals. I defined the distinction between schedules and missions, with optional conversion. I also reported duplicate items and verified the corrected Android build. | Flutter / Dart · Android closed testing; [public portfolio source](https://github.com/ken-do-it/small-steps-portfolio) |
 | **Pickforme · 픽포미** | Help users decide what to eat. I followed up on a Toss review rejection concerning test advertisements and requested that release artifacts use the production configuration. | React, TypeScript, Apps in Toss; Next.js API · Source private |
 | **Diceword · 다이스워드** | A small daily dice-and-message experience. I tested the Toss app experience and reported differences between test and release advertising behavior. | React, TypeScript, Apps in Toss · Source private |
 
